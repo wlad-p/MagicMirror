@@ -1,0 +1,38 @@
+.tableHead{
+	width: 400px;
+}
+.mainDiv {
+	width: 400px;
+}
+.headerDiv{
+	width: 400px;
+	display: table-cell;
+	vertical-align: middle;
+}
+.bahnDiv{
+	width: 75px;
+}
+.directionDiv{
+	width:150px;
+}
+.timeDiv{
+	width:175px;
+	display: flex;
+}
+.depDiv{
+	width: 100px;
+	font-size: 16px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+th{
+	font-size: 16px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+tr{
+	margin-top: 10px;
+}
+img{
+	width: 30px;
+	height: 30px;
+}

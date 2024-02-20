@@ -1,0 +1,70 @@
+
+.element{
+	margin-bottom: 10px;
+}
+
+#headline{
+	font-size:24px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+
+}
+img{
+	width: 18px;
+	height: 18px;
+	margin: 0 5px 0 0;
+}
+
+tr{
+	margin-top: -20px;
+	margin-bottom: -20px;
+}
+td{
+	margin: 0;
+	padding: 0;
+}
+p{
+	text-align: start;
+	padding: 0;
+	margin: 0 5px 0 5px;
+}
+
+#aral{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 18px;
+}
+
+#esso{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 18px;
+}
+
+#total{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 18px;
+}
+
+#jet{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 18px;
+}
+
+
+#essoValue{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 18px;
+}
+
+#aralValue{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 18px;
+}
+
+#totalValue{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 18px;
+}
+
+#jetValue{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 18px;
+}
